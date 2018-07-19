@@ -1,0 +1,140 @@
+
+
+$('.nav-tabs').addClass('fl').css('width','100%');
+$('a[href="https://www.n1w.net/"]').removeAttr('href');
+
+
+
+
+<style>
+<style>
+.border {box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(92, 184, 92);border: 1px solid white;}
+.fitimg.fl.u-pic  {box-shadow: inset 0 1px 1px rgba(0,0,0,.075), 0 0 8px rgb(243, 238, 238, 0.767);border-radius: 50px;}
+ul.nav.nav-tabs.fl li a {      color: #058396;  box-shadow: inset 0 2px 2px rgb(21, 47, 94), 0 0 8px rgb(21, 47, 94);font-family: 'jazeera',FontAwesome;font-size: 13px!important;padding: 6px!important;text-align: center!important;width: 100%;}
+ul.nav.nav-tabs.fl li {border-bottom: 3px solid rgb(218, 218, 218);width: 33.3%;}
+.label-primary, .btn-primary {border-radius: 14px 14px 14px 14px;}
+textarea.fl.filw.corner.tbox {    box-shadow:inset 0 2px 2px rgb(218, 218, 218), 0 0 8px rgb(21, 47, 94);border-radius: 7px;padding-left: 5px;}
+label.label.tc.border.btn.fl {border-radius: 40px 40px 40px 40px;}
+.label.tc.border.btn.fl, .label.tc.border.btn.fl {border: 3px solid #058396;font-family: 'jazeera',FontAwesome;border-radius: 5px 5px 5px 0px;}
+label.fl.nosel.label.pnhead {font-family: 'jazeera',FontAwesome;width: 80%;text-align: -webkit-center;background-color: #058396;color: white;border-radius:12px 12px 12px 12px;}
+.fr.borderg a {color: ##058396;}
+.fr.borderg {color: ##058396;}
+.border.corner, .border.corner {box-shadow: inset 0 1px 1px rgb(21, 47, 94), 0 0 8px rgb(21, 47, 94);border: 2px solid #bebebe;}
+.label-primary, .btn-primary {border: 1px solid #bebebe;}
+.checkbox {color: #058396;}
+.cont.fr.filh .d2.filh.break.light {background-image: url(https://n1w.net/n11w.png);}
+}
+
+
+$( "button.btn.btn-primary" ).css( "border-radius", "24px 24px 24px 24px" )
+
+$(document).ready($("div.fr.borderg").css("display","none"));
+$("#wall .tablebox").insertBefore('.d2bc');
+nopm=true;
+
+emopop=function (eid) {
+  var emo = $(eid)
+  emo.popover({
+    html: true,
+    content: function () {
+      var emosh = $("<div style='max-width:250px;'    class='break corner'></div>");
+      $.each(emos, function (i, e) {
+        emosh.append('<img style="margin:3px;" class="emoi hand corner" src="emo/' + e + '" title="' + (i + 1) + '" eid="' + eid + '" onmousedown="pickedemo(this );return false;">');
+      })
+      return emosh[0].outerHTML;
+    },
+    title: ""
+  });
+}
+if(location.protocol!='https:'){location.protocol='https:';}
+
+
+$('.break.light').css({"background-image":"url(https://www.n1w.net/bnnr.jpg)"});
+
+$(".label-primary").css("border-radius","24px 24px 24px 24px")
+
+$(".checkbox label").html(`<input id="stealth" type="checkbox" value=""><img style="width: 22px;" src="mkk.png" width="100%">`);
+button.border.btn.label.label-success.fl.fa.fa-plus {
+  width: 100%;
+  text-align: center;
+  background-color: #058396;
+  font-family: jazeera-light,FontAwesome;
+  padding-top: 2px;
+  padding-bottom: 6px;
+  border-radius: 0;
+  border: 1px solid #bebebe;
+}
+
+button.btn.fa.fa-image, button.btn.fa.fa-youtube-play {
+  width: 100%;
+  padding-top: 1px;
+  border-radius: 15px 15px 1px 1px;
+  margin-left: 0;
+  MARGIN-TOP: 2PX;
+}
+.room.borderg.hand.nosel.fl {
+  background-image: url(https://www.n1w.net/asss.png);
+}
+.users.borderg.hand.nosel.fl {
+  background-image: url(https://www.n1w.net/asss.png);
+}
+.wall.borderg.hand.nosel.fl {
+  background-image: url(https://www.n1w.net/asss.png);
+}
+
+label.fl.label.loginstat.label-success {
+  border-radius: 5px 5px 5px 5px!important;
+  font-family: 'jazeera',FontAwesome;
+  height: 22px;
+  display: inline-flex;
+}
+.fl.label.loginstat.label-success, .fl.label.loginstat.label-info {
+  color: #058396;
+  border: 1px solid #e1e0e0;
+  border-radius: 5px 5px 5px 5px;
+  margin-top: 1px;
+  background-color: #e1e0e0!important;
+}
+
+div#l1  input#u1 {border-radius: 15px 15px 0px 0px;border: 1px solid #e1e0e0;width: 99%;margin-top: 3px;margin-left:1px;text-align: center;font-family: 'jazeera-light',FontAwesome;}
+div#l1 button {border-radius: 0px 0px 15px 15px;width: 99%;height: 30px;}
+div#l3 button {border-radius: 15px;width: 99%;height: 30px;margin-left:1px;}
+div#l2 button {border-radius: 15px;width: 70%;height: 30px;}
+div#l2 input#pass1, div#l2 input#u2, div#l3 input#pass2, div#l3 input#u3{width: 49%;padding: 0px!important;float: right;margin: 2px 5px 2px 0px;;text-align: center;font-family: 'jazeera-light',FontAwesome;}
+div#l2 input#u2, div#l3 input#u3{margin-left: -6px;border-radius: 0px 15px 15px 0px;border: 1px solid #e1e0e0;}
+div#l2 input#pass1, div#l3 input#pass2 {border-radius: 15px 0px 0px 15px;border: 1px solid #e1e0e0;}
+div#l2 , div#l3 {padding: 2px!important;}
+div#l1 {height: 80px;margin: 0px 1px -18px 1px;padding: 0px!important;}
+div#l3 br , div#l2 br {display: none;}
+div#l2 ,div#l3, div#l1 {
+    border-bottom: 2px solid;
+    margin-bottom: 2px;
+    border-top: 0px solid;
+    margin-top: 0px;
+    border-color: #058396;
+    border-radius: 15px;
+    height: 69px;
+}
+div#tlogins .fr.borderg {
+  font-size: 10px!important;
+}
+label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.mini.fl {
+  margin-top: 5px;
+}
+.room.borderg.hand.nosel.fl img.fl.u-pic {
+  border-radius: 15px 15px 15px 15px;
+}
+
+#n1w8 {
+  background-image: url(https://www.n1w.net/sico/3sssl.png);
+  font-family: 'jazeera-light',FontAwesome;
+  margin-bottom: 2px;
+  background-color: rgb(44, 108, 145);
+  height: 28px;
+  color: #e1e0e0;
+  border-radius: 5px 5px 5px 5px;
+  border-bottom: 2px solid #058396;
+  border-top: 2px solid #058396;
+  padding-bottom: 2px!important;
+  text-shadow: 2px 0px 8px rgb(228, 228, 219) , 0px 2px 10px #fff !important;
+}
