@@ -74,7 +74,7 @@ div#tlogins .fr.borderg {
 div#tlogins .fr.borderg a {
     font-size: 10px!important;
 }
-div#l2 button {background-color: #630024!important;font-family: 'jazeera',FontAwesome;border: 1px solid #FFE0F6;}
+div#l2 button {font-family: 'jazeera',FontAwesome;}
 
 label.label.label-danger.border.nosel.fa.fa-close.fr {border: 1px solid #FFE0F6 !important;border-radius: 15px 15px 15px 2px!important;}
 .hand.nosel.fl.uzr.border, .hand.nosel.fl.uzr.border {border: 1px solid #FFE0F6;font-family: 'jazeera',FontAwesome;}
