@@ -168,11 +168,11 @@ label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.
   .sultan111, div#d2 {
     background-repeat: no-repeat;
     background-size: contain;
-    background-image: url(https://3t-p.com/atp.jpg);
+    background-image: url();
     background-color: #ffffff;
   }
-  .lonline.light.break{background-image: url(https:/3t-p.com/atp.jpg);background-size: inherit;border-top:5px groove #c86184;padding-top:5px}
-  .sultan111,div#d2{background-repeat: no-repeat;background-size: contain;background-image: url(https://3t-p.com/atp.jpg);background-color:#ffffff}a.label.label-primary.fl{height:35px;border-radius:19px 19px 0 0!important;padding:8px!important;border:2px solid #c86184}
+  .lonline.light.break{background-image: url();background-size: inherit;border-top:5px groove #c86184;padding-top:5px}
+  .sultan111,div#d2{background-repeat: no-repeat;background-size: contain;background-image: url();background-color:#ffffff}a.label.label-primary.fl{height:35px;border-radius:19px 19px 0 0!important;padding:8px!important;border:2px solid #c86184}
 }
 
 label.fl.label.loginstat.label-success, .fr.borderg, .label.label.label-primary.mini.fl {
